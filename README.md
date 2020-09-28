@@ -22,7 +22,7 @@ Train_Data.csv---------- Data for training
 			   value=1, otherwise.
 		7. x		=  Easting of the centroid of respective cell.
 		8. y		=  Northing of the centriod of respective cell.
-		9. Aspect	=  Aspect of cell.
+		9
 		10.DFR		=  Distance from River.
 		11.DFF		=  Distance from fault.
 		12.Altitude	=  Elevation of cells.
