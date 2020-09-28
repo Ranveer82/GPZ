@@ -2,12 +2,15 @@
  repository for GW potential zonation
 
 Title: A comparative study of machine learning and MCDM Fuzzy-AHP technique to Groundwater potential mapping in the data-scarce region.
-
+author: 	
+	Ranveer Kumar , M.tech(Enginering Geosciences)
+	IIT BHU Varanasi 221005
+	
 data guide:
 
 Ahp_accu_check.csv ---   contains the true and predicted classes by weighted overlay analysis, 		    for accuracy assesment.
 
-Data_unlabeled.csv ---- data for classification after modetraining.
+Data_unlabeled.csv ---- data for classification after model training.
 
 Train_Data.csv---------- Data for training
 		*Every row represents a features (cell 90m*90m).
