@@ -38,7 +38,7 @@ Train_Data.csv---------- Data for training
 		22.TPI		=  Topographic position Index.
 		23.WellYield	=  wells potential yeilds in Lps. 0 value represent no data.( total 208 well data is available for training and testing)
 
-
+well_augmentation.py ----- code used for data augmentation to create additional wells in the neighbourhood of existing wells.
 Train_Data_agm.csv------ Augmented dataset with above mentioned parameters.
 
 python Code for notebooks: (in .ipynb)(raw-- trained with 208 well data, agm -- trained with augmented dataset)
