@@ -50,7 +50,6 @@ python Code for notebooks: (in .ipynb)(raw-- trained with 208 well data, agm -- 
 	GWP_01_KNN_raw
 	GWP_01_RandomForest_agm
 	GWP_01_RandomForest_raw
-	GWP_template
-	GWP01_RF_regressor
 	GWP01_SVM_agm
 	GWP01_SVM_raw
+	data_augmentation.py
